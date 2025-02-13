@@ -4,10 +4,7 @@ Jupyter Notebook
 Author: [Lilian Marie Boll](https://justalilibit.github.io/)
 
 
-
-## Create vcf file with all possible peptide extensions resulting from an SNV in a STOP codon
-
-### INPUT FILES
+## INPUT FILES
 We used the genome GRCh38, Ensembl release 112 | files from [ensembl.org](https://ftp.ensembl.org/pub/release-112/fasta/homo_sapiens/)
 
 __Coding Sequences (CDS)__:
@@ -19,6 +16,7 @@ __Coding DNA (cDNA)__:
 _Both fasta files were last accessed on Feb 13th 2025._
 
 
+## JUPYTER NOTEBOOK
 1. Get the nucleotide sequences of all canonical peptides
     - Downloaded Coding Sequences (cds) from ensembl (https://ftp.ensembl.org/pub/release-112/fasta/homo_sapiens/).
 
