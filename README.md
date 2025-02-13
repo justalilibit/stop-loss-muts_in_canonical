@@ -28,7 +28,7 @@ Author: [Lilian Marie Boll](https://justalilibit.github.io/)
     The possible mutated codons are stored in nonsilentSNV_dict.
     - 3.4 Function *translate_mutated_cds_to_pep()* uses Bio.Seq object to translate the extended CDS to peptide
     - 
-![Schema of possible stop-loss mutations]([http://url/to/](https://github.com/justalilibit/stop-loss-muts_in_canonical/stop-loss_mutation_aa_change.png)
+![Schema of possible stop-loss mutations](https://github.com/justalilibit/stop-loss-muts_in_canonical/blob/main/stop-loss_mutation_aa_change.png)
 
 4. Write fasta files
     - 4.1 Function *update_header()* will create a unique ID for each mutated seq in the format >[gene_symbol]_n 
