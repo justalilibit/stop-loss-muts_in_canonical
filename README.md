@@ -1,7 +1,7 @@
 # Predicting peptide extensions from stop-loss mutations in canonical proteins
 Jupyter notebook computing potential peptide extensions from stop-loss mutations in human canonical sequences.
 
-Author: Lilian MArie Boll (lilianboll@mailbox.org)
+Author: (Lilian Marie Boll)[https://justalilibit.github.io/] (lilianboll@mailbox.org)
 
 ## Create vcf file with all possible peptide elongations resulting from a SNV in a STOP codon
 1. Get the nucleotide sequences of all canonical peptides
