@@ -14,7 +14,7 @@ __Coding Sequences (CDS)__:
 18290 CDS' in fasta format ([Download link for CDS fasta file](https://ftp.ensembl.org/pub/release-112/fasta/homo_sapiens/cds/Homo_sapiens.GRCh38.cds.all.fa.gz))
 
 __Coding DNA (cDNA)__:
-206723 cDNAs sequences in fasta format ([Download link for cDNA fasta file](https://ftp.ensembl.org/pub/release-112/fasta/homo_sapiens/cdna/Homo_sapiens.GRCh38.cdna.all.fa.gz))
+206723 cDNA sequences in fasta format ([Download link for cDNA fasta file](https://ftp.ensembl.org/pub/release-112/fasta/homo_sapiens/cdna/Homo_sapiens.GRCh38.cdna.all.fa.gz))
 
 _Both fasta files were last accessed on Feb 13th 2025._
 
