@@ -1,5 +1,4 @@
 # Predicting peptide extensions from stop-loss mutations in canonical proteins
-Jupyter Notebook
 
 Author: [Lilian Marie Boll](https://justalilibit.github.io/)
 
@@ -49,7 +48,7 @@ _Both fasta files were last accessed on Feb 13th 2025._
         - peptide seq in amino acids
         - mutated and extended CDS in nucleotides
 
-## Output:
+## OUTPUT:
 The final two fasta files contain the same sequence of the mutated sequences
 in amino acid (pep) and nucleotide (CDS) format.
 Mutated sequence: [8 last codons of CDS] + [mutated STOP codon] + [3'UTR to downstream STOP codon]
@@ -64,7 +63,7 @@ Mutated sequence: [8 last codons of CDS] + [mutated STOP codon] + [3'UTR to down
 - The final fasta file of potential extensions contains 16074 genes for which we predicted the peptide extensions. A stop-loss mutation results in a codon that encodes one of six or seven different amino acids, depending on the specific stop codon affected. Therefore, we ended up with 100035 potential, unique peptide extensions. 
 
 
-## Versions
+## VERSIONS
 - Genome GRCh38, Ensembl release 112 | files from [ensembl.org](https://ftp.ensembl.org/pub/release-112/fasta/homo_sapiens/)
 - Python 3.8.10 (default, Jan 17 2025, 14:40:23) 
 - [GCC 9.4.0]
